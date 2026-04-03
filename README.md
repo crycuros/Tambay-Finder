@@ -1,22 +1,5 @@
-# Tambay Finder
+# Vue 3 + Vite
 
-Tambay Finder is a web app designed to help users discover the best local hangout spots, cafes, and study areas nearby. Perfect for students, remote workers, or anyone looking for a good place to chill.
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Features
-- Search for local hangout spots
-- View details like name, location, and rating
-- Responsive design for mobile and desktop
-- Easy-to-use interface
-
-*(Future features: filter by Wi-Fi, open hours, save favorites, user reviews)*
-
-## Getting Started
-
-### Prerequisites
-- Web browser (Chrome, Firefox, Edge, etc.)
-- Optional: Node.js if you plan to use React or backend API
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/tambay-finder.git
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
